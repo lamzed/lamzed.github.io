@@ -6,7 +6,7 @@
     <description>Recent content in HOME on LAMZED&#39;S PAGE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 14:00:08 +0800</lastBuildDate>
     
 	<atom:link href="https://lamzed.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>https://lamzed.github.io/posts/text/</link>
+      <pubDate>Thu, 08 Aug 2019 14:00:08 +0800</pubDate>
+      
+      <guid>https://lamzed.github.io/posts/text/</guid>
+      <description>are you ok?</description>
     </item>
     
     <item>
@@ -152,6 +161,15 @@ var php_wireless = 4; siteWinsock.switch_inbox += so_control_logic; if (target_w
       <guid>https://lamzed.github.io/docs/without-toc/</guid>
       <description>At me ipso nepotibus nunc celebratior genus Tanto oblite Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
 Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lamzed.github.io/menu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/menu/</guid>
+      <description> WORKS BLOG ABOUT SHOP  </description>
     </item>
     
   </channel>
