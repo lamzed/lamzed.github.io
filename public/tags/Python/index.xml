@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on LAMZED&#39;S PAGE</title>
-    <link>lamzed.github.io/tags/Python/</link>
+    <link>https://lamzed.github.io/tags/Python/</link>
     <description>Recent content in Python on LAMZED&#39;S PAGE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="lamzed.github.io/tags/Python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lamzed.github.io/tags/Python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我爬我自己</title>
-      <link>lamzed.github.io/tech/pycrawler/</link>
+      <link>https://lamzed.github.io/tech/pycrawler/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>lamzed.github.io/tech/pycrawler/</guid>
+      <guid>https://lamzed.github.io/tech/pycrawler/</guid>
       <description>&lt;p&gt;或许该文不具备实操价值，但思路思想永垂不朽。&lt;/p&gt;
 &lt;p&gt;不搞个&lt;code&gt;UPPER_CASE&lt;/code&gt;彷佛不能显示出雨果的官威。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>静态页面快速搭建神器HUGO</title>
-      <link>lamzed.github.io/tech/hugonice/</link>
+      <link>https://lamzed.github.io/tech/hugonice/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>lamzed.github.io/tech/hugonice/</guid>
+      <guid>https://lamzed.github.io/tech/hugonice/</guid>
       <description>&lt;p&gt;标题不搞个&lt;code&gt;UPPER_CASE&lt;/code&gt;彷佛不能显示出雨果的官威。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>我做过的最引以为豪的一个项目</title>
-      <link>lamzed.github.io/tech/projectexp/</link>
+      <link>https://lamzed.github.io/tech/projectexp/</link>
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>lamzed.github.io/tech/projectexp/</guid>
+      <guid>https://lamzed.github.io/tech/projectexp/</guid>
       <description>&lt;h2 id=&#34;项目概览&#34;&gt;
   项目概览
   &lt;a class=&#34;anchor&#34; href=&#34;#%e9%a1%b9%e7%9b%ae%e6%a6%82%e8%a7%88&#34;&gt;#&lt;/a&gt;

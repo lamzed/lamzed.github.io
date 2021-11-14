@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on LAMZED&#39;S PAGE</title>
-    <link>lamzed.github.io/tags/Java/</link>
+    <link>https://lamzed.github.io/tags/Java/</link>
     <description>Recent content in Java on LAMZED&#39;S PAGE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="lamzed.github.io/tags/Java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lamzed.github.io/tags/Java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CPU乱序执行的证明</title>
-      <link>lamzed.github.io/tech/cpudisorder/</link>
+      <link>https://lamzed.github.io/tech/cpudisorder/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>lamzed.github.io/tech/cpudisorder/</guid>
+      <guid>https://lamzed.github.io/tech/cpudisorder/</guid>
       <description>或许你可以理解为我在里面显摆我的CPU（假的</description>
     </item>
     
     <item>
       <title>学习之路：知识体系构建及独家笔记整理</title>
-      <link>lamzed.github.io/tech/myknowledge/</link>
+      <link>https://lamzed.github.io/tech/myknowledge/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>lamzed.github.io/tech/myknowledge/</guid>
+      <guid>https://lamzed.github.io/tech/myknowledge/</guid>
       <description>所谓的觉悟，就是在黑暗的荒野中，开辟出一条应当前进的道路。</description>
     </item>
     
     <item>
       <title>每当我解决一个bug，i&#43;&#43;=妈妈对我发量的担忧</title>
-      <link>lamzed.github.io/tech/mmworry/</link>
+      <link>https://lamzed.github.io/tech/mmworry/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>lamzed.github.io/tech/mmworry/</guid>
+      <guid>https://lamzed.github.io/tech/mmworry/</guid>
       <description>&lt;p&gt;标题不搞个&lt;code&gt;UPPER_CASE&lt;/code&gt;彷佛不能显示出雨果的官威。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>论码农的自我修养——骇人听闻的技术栈</title>
-      <link>lamzed.github.io/tech/skillset/</link>
+      <link>https://lamzed.github.io/tech/skillset/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>lamzed.github.io/tech/skillset/</guid>
+      <guid>https://lamzed.github.io/tech/skillset/</guid>
       <description>&lt;p&gt;标题不搞个&lt;code&gt;UPPER_CASE&lt;/code&gt;彷佛不能显示出雨果的官威。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>那些年我背过的JAVA面试题，及奇技淫巧</title>
-      <link>lamzed.github.io/tech/specialskill/</link>
+      <link>https://lamzed.github.io/tech/specialskill/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>lamzed.github.io/tech/specialskill/</guid>
+      <guid>https://lamzed.github.io/tech/specialskill/</guid>
       <description>&lt;p&gt;咀嚼反刍，温故而知新。 内容涵盖：JavaEE、数据库和框架。&lt;/p&gt;</description>
     </item>
     
