@@ -1,1 +1,0 @@
-navigator.serviceWorker&&navigator.serviceWorker.register("/lamzed.github.io/sw.js",{scope:"/lamzed.github.io/"})
