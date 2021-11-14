@@ -1,0 +1,26 @@
+{{ define "main" }}
+<p><a href="/">所谓的觉悟 就是在黑暗的荒野中 开辟出一条应当前进的道路</a></p>
+<p><a href="/">所谓的觉悟 就是在黑暗的荒野中 开辟出一条应当前进的道路</a></p>
+<p><a href="/">所谓的觉悟 就是在黑暗的荒野中 开辟出一条应当前进的道路</a></p>
+<p><a href="/">所谓的觉悟 就是在黑暗的荒野中 开辟出一条应当前进的道路</a></p>
+<p><a href="/">所谓的觉悟 就是在黑暗的荒野中 开辟出一条应当前进的道路</a></p>
+<p><a href="/">所谓的觉悟 就是在黑暗的荒野中 开辟出一条应当前进的道路</a></p>
+<!--{{ range sort .Paginator.Pages }}-->
+<!--<article class="markdown book-post">-->
+<!--    &lt;!&ndash;        <a href="{{ .RelPermalink }}">{{ .Title }}</a>&ndash;&gt;-->
+<!--    <h2>-->
+<!--        <a href="{{ .RelPermalink }}">{{ .Title }}</a>-->
+<!--    </h2>-->
+<!--    {{ partial "docs/post-meta" . }}-->
+<!--    <p>-->
+<!--        {{- .Summary -}}-->
+<!--    </p>-->
+<!--</article>-->
+<!--{{ end }}-->
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}
+
+{{ define "toc" }}
+{{ partial "docs/taxonomy" . }}
+{{ end }}
