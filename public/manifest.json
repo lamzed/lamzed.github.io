@@ -1,0 +1,15 @@
+{
+  "name": "LAMZED'S PAGE",
+  "short_name": "LAMZED'S PAGE",
+  "start_url": "/lamzed.github.io/",
+  "scope": "/lamzed.github.io/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/lamzed.github.io/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
