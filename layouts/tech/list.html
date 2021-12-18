@@ -4,12 +4,13 @@
     <h2>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h2>
-    {{ partial "docs/post-meta" . }}
+    <!--    {{ partial "docs/post-meta" . }}-->
     <p>
         {{- .Summary -}}
-        {{ if .Truncated }}
-        <a href="{{ .RelPermalink }}"><<< to be continued</a>
-        {{ end }}
+<!--        {{ if .Truncated }}-->
+<!--        <a href="{{ .RelPermalink }}"><<< to be continued</a>-->
+<!--        {{ partial "docs/post-meta" . }}-->
+<!--        {{ end }}-->
     </p>
 </article>
 {{ end }}
