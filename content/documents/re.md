@@ -2,9 +2,11 @@
 title = "Regular Expression"
 date = "2021-05-31"
 bookSearchExclude = true
+summary = "常用正则表达式整合。点它"
+tags = ["RE"]
 +++
+
 常用正则表达式整合。内容转载自互联网，原出处不明。
-<!--more-->
 
 ## 校验数字的表达式
 

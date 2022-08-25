@@ -1,102 +1,23 @@
 ---
 author: "lamzed"
 date: 2019-08-07
-title: 那些年我背过的JAVA面试题，及奇技淫巧
-categories: ["技术干货"]
-tags: ["Java"]
+title: 静态页面快速搭建神器HUGO
+categories: ["技术随笔"]
 ---
 
-咀嚼反刍，温故而知新。 内容涵盖：JavaEE、数据库和框架。<!--more-->
-
-主菜速览：
-
-```
-1.JavaSE基础
-2.JDK新特性相关
-3.JVM相关
-4.JavaWeb相关
-
-5.微服务相关
-.数据库：MySQL、MongoDB和Redis
-
-```
-
-
-
-## 前言
-
-- ### 抛砖引玉
-
-
-基础内容我只会三言两语一笔带过，不会做过多补充。
-
-甚至只抛出问题没有答案。
-
-相对较难的问题我整理了些相关的详细答案，再深入的话则没有。
-
-- ### 吾非圣贤
-
-
-要是遇到题目出现错误缺漏的情况，你可以通过邮箱联系我。
-
-也可以通过这个邮箱向我索要x-mind思维导图。
+标题不搞个```UPPER_CASE```彷佛不能显示出雨果的官威。<!--more-->
 
 ***
 
-
-
-## JavaSE基础——基础不牢地动山摇
-
-
-
-### 你对面向对象的理解，面向对象比面向过程好在哪？
-
-```
-继承和多态提高了代码的复用性，但性能比面向过程要低。 
-```
-
-### 什么是多态，用什么方式去实现这个概念？
-
-```
-同一事物不同状态。通过implements interface或者extends @Override实现。 
-```
-
-### 接口和抽象类的区别
-
-```
-接口成员变量默认为public static final，必须赋初值；
-方法则是方法都是public、abstract。
-```
-
-### 什么是抽象类，什么情况下会用到抽象类？
-
-```
-
-```
-
-### 什么情况下会用到final？
-
-```
-
-```
-
-### final、finally、finalize区别
-
-```
-final是关键字
-finally配合try/catch使用
-finalize
-```
-
-
-
-### 
-
-
+## 狂
 
 我赌你没见过哪个框架，敢在他们官网首页正中，写下这样一句话？
 
 `The world’s fastest framework for building websites`
+
+### Preface
+
+I'm not going to translate this sharing, since the words above sums it up in its entirety.
 
 ## 跑得比记者还快
 
@@ -123,11 +44,11 @@ Just a few more steps and you're ready to go:
 Visit https://gohugo.io/ for quickstart guide and full documentation.
 ```
 
-到官网找个你心水的`theme`，扒拉下来，丢到对应目录，
+到官网找个你心水的`theme`，扒拉下来，摆到对应目录，
 
 敲下`hugo new blog01.md`，然后`vim`进去一顿输出，
 
-接着`hugo server`啪的一下网站就推出去了。很快啊。
+接着`hugo server`啪的一下很快网站就推出去了。
 
 ## 星剖
 
@@ -151,7 +72,7 @@ Visit https://gohugo.io/ for quickstart guide and full documentation.
 
 ## 抛瓦
 
-简单却~~power~~`抛瓦`，或者`dio`。就说部署这点，*简直无敌*。
+简单却~~power~~`抛瓦`，或者`dio`。就说部署这点，简直无敌。
 
 ### 部署速度
 
@@ -177,11 +98,11 @@ Visit https://gohugo.io/ for quickstart guide and full documentation.
 
 ### 响应式
 
-：嗯，对于博客站点来说，这玩意确实挺香的。
+嗯，对于博客站点来说，这玩意是真香。
 
-### 课代表发言了
+### 课代表发言
 
-总的来说，雨果的抛瓦包含以下三点。
+总的来说，雨果的抛瓦包含以下三点。是个极其适合静态页面快速搭建的框架。
 
 ```
 1. 部署快，它让开发编程的爽了
@@ -189,32 +110,20 @@ Visit https://gohugo.io/ for quickstart guide and full documentation.
 3. 响应式，它让围观白嫖的爽了
 ```
 
-## 课代表站起来了
+## 安利完了撒花
 
-快速，
+这是[`lamzed的奇妙页面`](/)的第一篇`blog`，没技术含量，就随笔来的。
 
-简单，
+对工作时长超过两年半的架构师们来说， 雨果也不过是个小孩玩具一样的东西。
 
-强力，
-
-他说，`hugo`极其适合静态页面快速搭建，嗯博客也可。
-
-## 安利完结撒花
-
-这是我[`lamzed的奇妙页面`](/)写的第一篇`blog`，也没技术含量，充其量是个随笔吐槽。
-
-可能对于架构师以上级别的牛人来说，雨果充其量只是个类似小孩玩具的东西。可但是——
-
-~~我是菜鸡~~。不是
+可但是——
 
 既然我选择了雨果搭建自己的博客，那我肯定要稍微吹一下它啊。吹爆！
 
 > 2021.2.13 改，删了废话。这个日期，新年哟~
 
-## 奇技淫巧
+## 彩蛋福利
 
-### 面试官心理
-
-或者，你也可以直接阅读[`Getting Started with Hugo`](/document/hugoisforlovers/)和[`Creating a New Theme`](/document/creating-a-new-theme/)这两份文档。
+或者，你也可以直接阅读[`Getting Started with Hugo`](/documents/getting-started-with-hugo/)和[`Creating a New Theme`](/documents/creating-a-new-theme/)这两份文档。
 
 不带翻译的绝好`阅读材料`！wink~
