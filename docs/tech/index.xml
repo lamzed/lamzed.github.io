@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TECH on LAMZED&#39;S PAGE</title>
+    <link>https://lamzed.github.io/tech/</link>
+    <description>Recent content in TECH on LAMZED&#39;S PAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lamzed.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>抄来的面试小册</title>
+      <link>https://lamzed.github.io/tech/devnotes/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/tech/devnotes/</guid>
+      <description>比较基础顺便整理了下的 「dev notes」</description>
+    </item>
+    
+    <item>
+      <title>抄来的写作技巧</title>
+      <link>https://lamzed.github.io/tech/writingskills/</link>
+      <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/tech/writingskills/</guid>
+      <description>其实就是复制粘贴过来的「writing skills」</description>
+    </item>
+    
+  </channel>
+</rss>

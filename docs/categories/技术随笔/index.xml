@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术随笔 on LAMZED&#39;S PAGE</title>
+    <link>https://lamzed.github.io/categories/%E6%8A%80%E6%9C%AF%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 技术随笔 on LAMZED&#39;S PAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lamzed.github.io/categories/%E6%8A%80%E6%9C%AF%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>静态页面快速搭建神器HUGO</title>
+      <link>https://lamzed.github.io/documents/abouthugo/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/documents/abouthugo/</guid>
+      <description>&lt;p&gt;标题不搞个&lt;code&gt;UPPER_CASE&lt;/code&gt;彷佛不能显示出雨果的官威。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
