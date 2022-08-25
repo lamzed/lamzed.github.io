@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RE on LAMZED&#39;S PAGE</title>
+    <link>https://lamzed.github.io/tags/RE/</link>
+    <description>Recent content in RE on LAMZED&#39;S PAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lamzed.github.io/tags/RE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regular Expression</title>
+      <link>https://lamzed.github.io/documents/re/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/documents/re/</guid>
+      <description>常用正则表达式整合。点它</description>
+    </item>
+    
+  </channel>
+</rss>

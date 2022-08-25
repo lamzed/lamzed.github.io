@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on LAMZED&#39;S PAGE</title>
+    <link>https://lamzed.github.io/</link>
+    <description>Recent content in HOME on LAMZED&#39;S PAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Dec 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://lamzed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>抄来的面试小册</title>
+      <link>https://lamzed.github.io/tech/devnotes/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/tech/devnotes/</guid>
+      <description>比较基础顺便整理了下的 「dev notes」</description>
+    </item>
+    
+    <item>
+      <title>Regular Expression</title>
+      <link>https://lamzed.github.io/documents/re/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/documents/re/</guid>
+      <description>常用正则表达式整合。点它</description>
+    </item>
+    
+    <item>
+      <title>静态页面快速搭建神器HUGO</title>
+      <link>https://lamzed.github.io/documents/abouthugo/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/documents/abouthugo/</guid>
+      <description>&lt;p&gt;标题不搞个&lt;code&gt;UPPER_CASE&lt;/code&gt;彷佛不能显示出雨果的官威。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>抄来的写作技巧</title>
+      <link>https://lamzed.github.io/tech/writingskills/</link>
+      <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/tech/writingskills/</guid>
+      <description>其实就是复制粘贴过来的「writing skills」</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://lamzed.github.io/documents/getting-started-with-hugo/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/documents/getting-started-with-hugo/</guid>
+      <description>Step 1. Install Hugo #  Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs #  Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://lamzed.github.io/documents/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamzed.github.io/documents/creating-a-new-theme/</guid>
+      <description>Introduction #  This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+  </channel>
+</rss>
